@@ -2,7 +2,7 @@
 
 This is a simple to-do list application built with React.
 
-[live-webpage](https://to-do-list-app-murex-two.vercel.app/)
+[Preview](https://to-do-list-app-murex-two.vercel.app/)
 
 
 ## Features
