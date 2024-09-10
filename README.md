@@ -21,7 +21,8 @@ This is a simple to-do list application built with React.
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/56aa8594-f422-4ac0-9672-fbe42f4f0ae9)
+![image](https://github.com/user-attachments/assets/214f79e6-0769-4ee1-8908-d6fc27cdd8a5)
+
 
 
 ## Technologies Used
