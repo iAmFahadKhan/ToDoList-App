@@ -11,7 +11,7 @@ This is a simple to-do list application built with React and Flask.
 - **Mark tasks as completed:** Click on a task to toggle its completion status.
 - **Edit tasks:** Click the edit icon to edit an existing task.
 - **Delete tasks:** Click the delete icon to remove a task from the list.
-- **Clear all tasks:** Use the "Clear All" button to remove all tasks from the list.
+- **Clear all tasks:** Use the reload button to remove all tasks from the list.
 
 ## Usage
 
