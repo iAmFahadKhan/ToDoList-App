@@ -1,6 +1,6 @@
 # ToDoList App
 
-This is a simple to-do list application built with React.
+This is a simple to-do list application built with React and Flask.
 
 [Preview](https://to-do-list-app-murex-two.vercel.app/)
 
