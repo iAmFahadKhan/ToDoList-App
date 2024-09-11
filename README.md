@@ -8,7 +8,6 @@ This is a simple to-do list application built with React and Flask.
 ## Features
 
 - **Add tasks:** Enter a task and click the "Add Task" button to add it to the list.
-- **Mark tasks as completed:** Click on a task to toggle its completion status.
 - **Edit tasks:** Click the edit icon to edit an existing task.
 - **Delete tasks:** Click the delete icon to remove a task from the list.
 - **Clear all tasks:** Use the 🔁 button to remove all tasks from the list.
@@ -17,10 +16,9 @@ This is a simple to-do list application built with React and Flask.
 
 1. **Enter a task:** Type the task you want to add in the input field.
 2. **Click "Add Task":** This will add the task to the list.
-3. **Mark tasks as completed:** Click on a task to toggle its completion status.
-4. **Edit tasks:** Click the edit icon to edit an existing task.
-5. **Delete tasks:** Click the delete icon to remove a task from the list.
-6. **Clear all tasks:** Click the "🔁" button to remove all tasks.
+3. **Edit tasks:** Click the edit icon to edit an existing task.
+4. **Delete tasks:** Click the delete icon to remove a task from the list.
+5. **Clear all tasks:** Click the "🔁" button to remove all tasks.
 
 ## Screenshots
 
