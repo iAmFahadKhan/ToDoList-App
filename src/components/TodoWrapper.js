@@ -46,7 +46,7 @@ export const TodoWrapper = () => {
   
   return (
     <div className="TodoWrapper">
-      <div style={{display:'flex',justifyContent:'center',alignItems:'center',gap:'20px'}}><h1>ToDoList-App</h1>
+      <div style={{display:'flex',justifyContent:'center',alignItems:'center',gap:'20px'}}><h1>ToDoListApp</h1>
       <button className="clear-all-btn" onClick={clearAll}>{<VscRefresh />}</button></div>
       <TodoForm addTodo={addTodo} />
       
