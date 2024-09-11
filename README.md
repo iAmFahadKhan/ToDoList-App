@@ -33,4 +33,6 @@ This is a simple to-do list application built with React.
 - React
 - JavaScript
 - CSS
-
+- Python
+- Flask
+- Postgresql
